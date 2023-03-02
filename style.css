@@ -1,0 +1,25 @@
+body{
+    background-color: black;    
+}
+div {
+    text-align: center;
+}
+
+h1,h2{color: white;
+    font-size:  50px;
+
+
+}
+button {
+    width: 100px;
+    height: 80px;
+}
+#button-start {
+    background-color: green;
+}
+#button-stop {
+    background-color: gray;
+}
+#button-reset {
+    background-color: red;
+}
